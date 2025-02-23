@@ -1,0 +1,17 @@
+
+.container{
+    height: 200px;
+    width: 300px;
+    background-color: palevioletred;
+    border: 3px solid black;
+}
+.box{
+
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: lightgreen;
+    border: 3px solid black;
+    float: right;
+
+}
